@@ -30,7 +30,7 @@ class Coche extends Vehiculo{
 }
 
 let superCarro =new Vehiculo( "BMW",2026,2027,2)
-console.log(superCarro.mostrar());
+console.log(superCarro.mostrar());    
 
 let otrico= new Coche("Jeep",2000,2027,5)
 console.log(otrico.mostrar())

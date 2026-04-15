@@ -4,7 +4,8 @@
 //perímetro. Crear una instancia de la clase 'Rectángulo' y calcular su área y perímetro
 
 class Rectangulo {
-    
+    ancho;
+    altura;
     constructor(valor1,valor2){
         this.ancho=valor1;
         this.altura=valor2;
